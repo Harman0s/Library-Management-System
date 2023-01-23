@@ -7,10 +7,10 @@ However, it is also beneficial for readers because they can keep track of the av
 
 A reader, which is either a student or teacher can login in the system, search books, borrow, reserve, renew and return books. A librarian has the most functions since they can also add/delete both books or users.
 
-Notes***
 
+***Notes***  
 The format of student.txt input file is such:
-"Role username password"
+"Role username password" 
 0=student, 1=teacher, 2=librarian
 
 
