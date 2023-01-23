@@ -9,8 +9,7 @@ A reader, which is either a student or teacher can login in the system, search b
 
 
 ***Notes***  
-The format of student.txt input file is:
-"Role username password" 
+The format of student.txt input file is:                                                                                                                "Role username password" 
 
 where 0=student, 1=teacher, 2=librarian
 
